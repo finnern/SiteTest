@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Playful Enterprise! 
 
-You can use the [editor on GitHub](https://github.com/finnern/SiteTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Assimov](https://github.com/finnern/SiteTest/blob/main/Isaac-Asimove-Funny-Playful%20Enterprise%20.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
