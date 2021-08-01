@@ -1,6 +1,6 @@
 ## Welcome to Playful Enterprise! 
 
-![Assimov](https://github.com/finnern/SiteTest/blob/main/Isaac-Asimove-Funny-Playful%20Enterprise%20.jpeg)
+![Assimov](https://github.com/finnern/SiteTest/blob/ed17da5a295ebf41fa81f118779ec17c7c0a7261/Isaac%20Asimov%20Funny%20Playful%20Enterprise.png)
 
 
 ### Markdown
